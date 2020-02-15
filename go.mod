@@ -1,4 +1,4 @@
-module github.com/lusingander/fyne-test-sample
+module github.com/lusingander/fyne-test-example
 
 go 1.13
 

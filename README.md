@@ -1,2 +1,2 @@
-fyne-test-sample
+fyne-test-example
 ====
